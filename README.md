@@ -12,3 +12,7 @@ You will find som files with the test cases and the bugs found.
 Folder (Documentation/Evidences)
 
 You will find the evidences of the project in this folder.
+
+Folder (Postman - API collection)
+
+You will find here the postman collection to test teh API
